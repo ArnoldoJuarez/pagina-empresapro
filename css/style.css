@@ -1,0 +1,50 @@
+
+.hero {
+    background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
+    url('https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=2000');
+    background-size: cover;
+    background-position: center;
+    
+    min-height: 100vh;      
+    padding-top: 100px;     /* Incrementamos un poco para asegurar el espacio de la barra */
+    box-sizing: border-box; 
+    color: white;
+    
+    /* 🛠️ CAMBIO AQUÍ: Centrado vertical real respetando el padding superior */
+    display: flex;
+    flex-direction: column;   /* Alinea los elementos internos hacia abajo en fila */
+    justify-content: center;  /* Centra verticalmente respetando los límites del padding */
+}
+    .section-padding{
+        padding:80px 0;
+    }
+
+    .service-card{
+        transition:.3s;
+    }
+
+    .service-card:hover{
+        transform: translateY(-8px);
+    }
+
+    .icon-box{
+        width:80px;
+        height:80px;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border-radius:50%;
+        font-size:30px;
+        margin:auto;
+    }
+
+    .stats{
+        background:#f8f9fa;
+    }
+
+    footer{
+        background:#212529;
+        color:white;
+    }
+
+
