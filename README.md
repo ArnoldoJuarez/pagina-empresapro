@@ -2,9 +2,9 @@
 
 ¡Bienvenido al repositorio de **EmpresaPro**! Esta es una landing page moderna, responsiva y optimizada, diseñada para una agencia de servicios digitales que busca impulsar negocios al siguiente nivel mediante desarrollo web, marketing y ciberseguridad.
 
- **[Ver Proyecto en Vivo]()**
+ 
 
----
+https://pagina-empresapro.vercel.app/ 
 
 ##  Captura de Pantalla
 ![alt text](image.png)
@@ -29,7 +29,7 @@ Este proyecto fue construido utilizando tecnologías web estándar y frameworks 
 EmailJS: Integración de API de terceros para el procesamiento y envío de formularios de contacto directamente a una bandeja de correo electrónico corporativa sin requerir infraestructura de servidor dedicada.
 ---
 
-## 🚀 Despliegue (Deploy)
+## Despliegue (Deploy)
 
 Este proyecto está configurado para un despliegue continuo utilizando **Vercel**. Cada vez que se realiza un cambio en la rama principal de este repositorio de GitHub, el sitio en producción se actualiza automáticamente.
 
@@ -37,8 +37,4 @@ Este proyecto está configurado para un despliegue continuo utilizando **Vercel*
 
 ## 👤 Autor
 
-Desarrollado  por:
-
-* **Arnoldo Juarez**
-* LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tu-usuario)
-* Portfolio: [Tu Portafolio Web](https://tu-portafolio.com)
+Desarrollado  por: Arnoldo Juarez
